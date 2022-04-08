@@ -18,5 +18,5 @@ On this project you can control the image focus as the size  also the color too 
 
 
 ---
-⌨️ com ❤️ por [JavaScript30](https://courses.wesbos.com/account/access/5f57b17ef8289514d0f9a04d/view/194130581) 😊
+⌨️ with   [JavaScript30](https://courses.wesbos.com/account/access/5f57b17ef8289514d0f9a04d/view/194130581) 😊
 

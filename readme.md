@@ -6,7 +6,8 @@
 
 This Project has been part of https://javascript30.com/
 
-On this project you can control the image focus as the size  also the color too like image below.
+On this project you can control the image focus as the size  also the color too like image below.<br>
+
 ![image](/images/css_imag_update.png)
 
 ## 🛠️ Technologies
